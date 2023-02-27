@@ -1,0 +1,24 @@
+This is a complete and error-free Quiz Game Mini Project in C designed as a simple console application. 
+In this project, 13 questions are asked, and the participant is awarded cash prize for each correct answer given.
+
+I have devided this quiz game into two parts:-
+1.Administrator:- Who can set questions and keep track of records.
+2.Participants:- Who can play this game and win prize money(Virtually).
+
+In this quiz game  project, you can store the user name, view the score secured by a participants
+
+Additionally, for looks we used graphics.
+For each correct answer participant win some amount and permission for next question.
+
+The game ends at 13th question.Cash prize for last question is $1 billion. 
+For each question asked, there are 4 options, 
+namely A, B, C and D. There are no negative markings, 
+so the user’s accumulated cash money won’t be deducted for wrong answers to the questions.
+
+The whole project is designed in ‘C’ language and Data Structures like File handling and some sorting and searching algorithms.
+It's very easy for administrative and participants to use and operate the system.
+
+Objectives:-
+
+The main objective of this project is for making easy for the participants to play quiz game and increase there knowlegde.
+Also for the administrative is to set questions and keep track of records.This project provides user friendly environment.

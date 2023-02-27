@@ -1,0 +1,20 @@
+[0113/181828.796:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/181833.809:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/181838.822:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/181843.832:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/181848.849:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/181853.859:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/181858.866:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/181903.875:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/181908.885:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/181913.899:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/181918.910:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/191503.964:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/191508.978:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/191513.987:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/191518.999:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/191524.010:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/191529.024:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0113/192341.016:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0320/104422.048:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0320/110131.989:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
